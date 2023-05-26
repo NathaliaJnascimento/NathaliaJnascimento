@@ -21,6 +21,7 @@ E-mail: [naah.nascimentto@gmail.com]
 LinkedIn: [[nathaliajnascimento](https://www.linkedin.com/in/nathaliajnascimento/)]
 
 🚀 Estatísticas do GitHub
+
 ![Estatísticas do GitHub de Nathalia Nascimento](https://github-readme-stats.vercel.app/api?username=Nathaliajnascimento&show_icons=true&theme=radical)
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaliajnascimento&theme=radical)
