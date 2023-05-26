@@ -1,23 +1,8 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Bem-vindo(a) ao meu perfil do GitHub! 👋
+
 Olá, meu nome é Nathalia, uma desenvolvedora apaixonada! 🚀
 
-🌟 Minhas habilidades
-Aqui estão algumas das minhas habilidades:
+🌟 Aqui estão algumas das minhas habilidades:
 
 Front-end: HTML, CSS, JavaScript, React, Vue.js, Angular
 Back-end: Node.js, Express.js
@@ -39,7 +24,7 @@ LinkedIn: [seu perfil aqui]
 Twitter: [seu perfil aqui]
 
 🚀 Estatísticas do GitHub
-![Estatísticas do GitHub de [seu nome aqui]](https://github-readme-stats.vercel.app/api?username=[seu nome aqui]&show_icons=true&theme=radical)
+![Estatísticas do GitHub de Nathalia Nascimento](https://github-readme-stats.vercel.app/api?username=Nathaliajnascimento&show_icons=true&theme=radical)
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=[seu nome aqui]&theme=radical)
 
