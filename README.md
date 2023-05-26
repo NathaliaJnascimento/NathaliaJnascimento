@@ -21,7 +21,6 @@ Confira alguns dos meus projetos mais recentes:
 📫 Entre em contato
 E-mail: [seu e-mail aqui]
 LinkedIn: [seu perfil aqui]
-Twitter: [seu perfil aqui]
 
 🚀 Estatísticas do GitHub
 ![Estatísticas do GitHub de Nathalia Nascimento](https://github-readme-stats.vercel.app/api?username=Nathaliajnascimento&show_icons=true&theme=radical)
@@ -31,4 +30,4 @@ Twitter: [seu perfil aqui]
 🚀 Visite meu site
 Confira meu site pessoal em [seu site aqui].
 
-![Imagem de perfil](imagem de perfil aqui)
+![Imagem de perfil](https://github.com/account))
