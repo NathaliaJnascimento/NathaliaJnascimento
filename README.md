@@ -1,6 +1,6 @@
 Bem-vindo(a) ao meu perfil do GitHub! 👋
 
-Olá, meu nome é Nathalia, uma desenvolvedora apaixonada! 🚀
+Olá, meu nome é Nathalia! 🚀
 
 🌟 Aqui estão algumas das minhas habilidades:
 
