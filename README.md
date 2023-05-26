@@ -18,12 +18,12 @@ Confira alguns dos meus projetos mais recentes:
 
 📫 Entre em contato
 E-mail: [naah.nascimentto@gmail.com]
-LinkedIn: [[seu perfil aqui](https://www.linkedin.com/in/nathaliajnascimento/)]
+LinkedIn: [[nathaliajnascimento](https://www.linkedin.com/in/nathaliajnascimento/)]
 
 🚀 Estatísticas do GitHub
 ![Estatísticas do GitHub de Nathalia Nascimento](https://github-readme-stats.vercel.app/api?username=Nathaliajnascimento&show_icons=true&theme=radical)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=[seu nome aqui]&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaliajnascimento&theme=radical)
 
 🚀 Visite meu site
 Confira meu site pessoal em [seu site aqui].
