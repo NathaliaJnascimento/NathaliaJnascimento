@@ -20,6 +20,6 @@ LinkedIn: [[nathaliajnascimento](https://www.linkedin.com/in/nathaliajnascimento
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaliajnascimento&theme=radical)
 
-🚀 Visite meu site
-Confira meu site pessoal em [seu site aqui].
+
+
 
