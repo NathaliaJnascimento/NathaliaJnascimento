@@ -4,12 +4,7 @@ Olá, meu nome é Nathalia! 🚀
 
 🌟 Aqui estão algumas das minhas habilidades:
 
-Front-end: HTML, CSS, JavaScript, React, Vue.js, Angular
-Back-end: Node.js, Express.js
-Bancos de dados: MySQL, MongoDB, Firebase
-Ferramentas de construção: Webpack, Babel, Gulp
-Testes: Jest, Enzyme
-Outras: Git, Bash
+Front-end: HTML, CSS, JavaScript
 
 🚀 Projetos
 Confira alguns dos meus projetos mais recentes:
