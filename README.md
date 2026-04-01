@@ -48,7 +48,6 @@
 
 ## Vamos Conectar!
 
-[![Instagram](https://img.shields.io/badge/-{Nome}-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})](www.instagram.com/nathaliajnascimento)
-[![](https://img.shields.io/badge/-{Nathalia Nascimento}-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})](www.linkedin.com/in/nathaliajnascimento)
-
+![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})
+[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/)
 
