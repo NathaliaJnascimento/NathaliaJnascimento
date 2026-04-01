@@ -49,6 +49,6 @@
 ## Vamos Conectar!
 
 [![Instagram](https://img.shields.io/badge/-{Nome}-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})](www.instagram.com/nathaliajnascimento)
-[![](https://img.shields.io/badge/-{Nome}-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})](www.linkedin.com/in/nathaliajnascimento)
+[![](https://img.shields.io/badge/-{Nathalia Nascimento}-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})](www.linkedin.com/in/nathaliajnascimento)
 
 
