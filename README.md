@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=><img width="2072" height="758" alt="Espaço de trabalho criativo e aconchegante" src="https://github.com/user-attachments/assets/7532d620-4417-49ac-ae93-6ef9e2730d84" />
+  <img src=><img width="2072" height="758" alt="Espaço criativo acolhedor e produtivo" src="https://github.com/user-attachments/assets/fb42835c-124c-43a6-90bc-cba80b741574"/>
 
 </div>
 
