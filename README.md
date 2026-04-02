@@ -25,9 +25,7 @@
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
-- Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
