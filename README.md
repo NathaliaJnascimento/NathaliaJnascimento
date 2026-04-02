@@ -1,5 +1,6 @@
 <div align="center">
-  <img src=https://drive.google.com/file/d/1huRBpO5UP5Eayj7N9dvNkcpV0TnDdPoO/view?usp=drive_link>
+  <img src=><img width="2072" height="758" alt="Espaço de trabalho criativo e aconchegante" src="https://github.com/user-attachments/assets/7532d620-4417-49ac-ae93-6ef9e2730d84" />
+
 </div>
 
 # 🚀 Olá, meu nome é Nathalia - Software Developer 
