@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=https://chatgpt.com/s/m_69cdedf0db1c81918fdeef71c48ef7db>
+  <img src=https://drive.google.com/file/d/1huRBpO5UP5Eayj7N9dvNkcpV0TnDdPoO/view?usp=drive_link>
 </div>
 
 # 🚀 Olá, meu nome é Nathalia - Software Developer 
