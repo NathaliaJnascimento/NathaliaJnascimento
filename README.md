@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 </div>
 
-# 🚀 Olá, meunome é Nathalia - Software Developer 
+# 🚀 Olá, meu nome é Nathalia - Software Developer 
 
 ## Sobre mim
 
@@ -21,10 +21,10 @@
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=,javascript,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javascript,python)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=,react)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 - Ferramentas e Tecnologias: 
 
@@ -36,7 +36,7 @@
 
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
-1. [Projeto 1]([https://github.com/[seu-usuario]/projeto1](https://github.com/NathaliaJnascimento/Dicionario-de-mulheres-negras)): Uma descrição emocionante do projeto e como ele mudou o mundo.
+1. [Projeto 1](https://github.com/NathaliaJnascimento/Dicionario-de-mulheres-negras.git): Dicionário que lista todas as mulheres que fizeram e ainda fazem parte da história do Brasil e mundo.
 
 
 ## Vamos Criar Algo Incrível! 💫
