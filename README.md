@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=![Banner Nathalia](sandbox:/mnt/data/a_wide_pastel_cozy_digital_illustration_banner.png)>
+  <img src=https://chatgpt.com/s/m_69cdedf0db1c81918fdeef71c48ef7db>
 </div>
 
 # 🚀 Olá, meu nome é Nathalia - Software Developer 
