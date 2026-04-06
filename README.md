@@ -1,12 +1,12 @@
 <div align="center">
-  <img src=><img width="2072" height="758" alt="Espaço criativo acolhedor e produtivo" src="https://github.com/user-attachments/assets/fb42835c-124c-43a6-90bc-cba80b741574"/>
+  <img width="2072" height="758" alt="Espaço criativo acolhedor e produtivo" src="https://github.com/user-attachments/assets/fb42835c-124c-43a6-90bc-cba80b741574"/>
 </div>
 
 # 🚀 Olá, meu nome é Nathalia - Software Developer 
 
 ## Sobre mim
 
-✨ Sou um(a) desenvolvedor(a) apaixonado(a) por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
+✨ Sou uma desenvolvedora apaixonadoa por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
 
 ## 💼 Perfil Profissional
 
