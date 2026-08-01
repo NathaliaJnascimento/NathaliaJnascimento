@@ -37,7 +37,7 @@
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
 1. [Projeto 1](https://github.com/NathaliaJnascimento/Dicionario-de-mulheres-negras.git): Dicionário que lista todas as mulheres que fizeram e ainda fazem parte da história do Brasil e mundo.
-
+2. [Projeo 2](github.com/NathaliaJnascimento/checklist-app): Checklist é um aplicativo desenvolvido para facilitar a organização de compras, permitindo criar listas, marcar produtos, ajustar quantidades, calcular o valor total da compra por meio de uma calculadora integrada e salvar listas para uso futuro. Seu objetivo é tornar as compras mais práticas e organizadas.
 
 ## Vamos Criar Algo Incrível! 💫
 
